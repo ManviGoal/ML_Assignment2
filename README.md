@@ -9,13 +9,13 @@ The dataset used is the Census Income (Adult) Dataset from the UCI Machine Learn
 # Models Used and Evaluation Metrics
 
 Comparison Table  
-Model  Accuracy       AUC  Precision    Recall        F1  
-0  Logistic Regression  0.827883  0.860793   0.724623  0.459821  0.562622  
-1        Decision Tree  0.813604  0.752396   0.608191  0.634566  0.621099  
-2                  KNN  0.834024  0.856943   0.671117  0.609056  0.638582  
-3          Naive Bayes  0.808076  0.864383   0.704370  0.349490  0.467178  
-4        Random Forest  0.859665  0.911135   0.744395  0.635204  0.685478  
-5              XGBoost  0.876248  0.928644   0.776087  0.683036  0.726594
+Model , Accuracy, AUC, Precision, Recall, F1  
+0 , Logistic Regression,  0.827883,  0.860793,   0.724623,  0.459821,  0.562622  
+1 ,       Decision Tree,  0.813604,  0.752396,   0.608191,  0.634566,  0.621099  
+2 ,                 KNN,  0.834024,  0.856943,   0.671117,  0.609056,  0.638582  
+3 ,         Naive Bayes,  0.808076,  0.864383,   0.704370,  0.349490,  0.467178  
+4 ,       Random Forest,  0.859665,  0.911135,   0.744395,  0.635204,  0.685478  
+5 ,             XGBoost,  0.876248,  0.928644,   0.776087,  0.683036,  0.726594
 
 # Model Performance Observations
 
