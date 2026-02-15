@@ -48,12 +48,12 @@ if uploaded_file is not None:
 
     # Model paths
     model_paths = {
-        "Logistic Regression": "ML_Assignment2/model/logistic_regression.pkl",
-        "Decision Tree": "ML_Assignment2/model/decision_tree.pkl",
-        "KNN": "ML_Assignment2/model/knn.pkl",
-        "Naive Bayes": "ML_Assignment2/model/naive_bayes.pkl",
-        "Random Forest": "ML_Assignment2/model/random_forest.pkl",
-        "XGBoost": "ML_Assignment2/model/xgboost.pkl"
+        "Logistic Regression": "model/logistic_regression.pkl",
+        "Decision Tree": "model/decision_tree.pkl",
+        "KNN": "model/knn.pkl",
+        "Naive Bayes": "model/naive_bayes.pkl",
+        "Random Forest": "model/random_forest.pkl",
+        "XGBoost": "model/xgboost.pkl"
     }
 
     # Load trained model (DO NOT FIT AGAIN)
